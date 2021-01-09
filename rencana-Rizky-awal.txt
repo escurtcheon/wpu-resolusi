@@ -1,5 +1,7 @@
 - investas
   o - reksadana
+- ikut lomba
+  o - Web Design
   o - saham
 - ikut lomba
   o - hackathon
