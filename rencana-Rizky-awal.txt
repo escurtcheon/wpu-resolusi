@@ -1,3 +1,6 @@
 - investas
+  o - reksadana
+  o - saham
 - ikut lomba
+  o - hackathon
 - belajar speak up
